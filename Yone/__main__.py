@@ -241,7 +241,7 @@ def yone_about_callback(update: Update, context: CallbackContext):
                 [
                    [
                      InlineKeyboardButton(text="Support", url="https://t.me/dominator_bot_support"),
-                     InlineKeyboardButton(text="News", url="https://t.me/dominator_bot_offcial"),
+                     InlineKeyboardButton(text="News", url="https://t.me/dominator_bot_official"),
                    ],
                    [
                     InlineKeyboardButton(text="Back", callback_data="yone_back")
