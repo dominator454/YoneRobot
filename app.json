@@ -69,7 +69,7 @@
     "PHOTO": {
        "description": "Your Telegram Bot Image (Add Link Only).",
        "required": true,
-       "value": "https://telegra.ph/file/b749b0e80e82291e85e10.jpg"
+       "value": "https://telegra.ph/file/03d7f9a3b88879adbbbfe.jpg"
     },      
     "DEV_USERS": {
        "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Masha support then keep the current ID's here at they are and add yours.",
