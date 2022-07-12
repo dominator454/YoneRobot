@@ -8,7 +8,7 @@
        "manager",
        "yone"
     ],   
- "repository": "https://github.com/noob-kittu/YoneRobot",
+ "repository": "https://github.com/dominator454/YoneRobot",
  "addons": [
     {
        "options": {
@@ -49,7 +49,7 @@
     "OWNER_ID": {
        "description": "Your user ID as an integer.",
        "required": true,
-       "value": "1697409878"
+       "value": "1253258650"
     },
 
     "BOT_NAME": {
@@ -59,12 +59,12 @@
     },
     "OWNER_USERNAME": {
        "description": "Your username without the @",
-       "value": "kumjojass"
+       "value": "N1xDOMINATOR"
     },
     "SUPPORT_CHAT": {
        "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
        "required": true,
-       "value": "league_of_bots"
+       "value": "dominator_bot_support"
     },      
     "PHOTO": {
        "description": "Your Telegram Bot Image (Add Link Only).",
